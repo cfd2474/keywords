@@ -6,6 +6,7 @@ a
 abaddon
 acolyte
 ada
+aegis
 afram
 agent
 ai
